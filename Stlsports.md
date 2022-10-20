@@ -9,8 +9,8 @@ Since I am from St.Louis I love watching St.LOuis sports. I like watching the Ca
 
 <html>
   <head>
-    <img src="https://www.vectorkhazana.com/assets/images/products/St-Louis-Cardinals-logo.jpg" alt="Cardinals" style="width:500px;height:600px;">
-    <img src="https://images4.alphacoders.com/569/569556.jpg" alt="Blues" style="width:500px;height:600px;">
+    <img src="https://www.vectorkhazana.com/assets/images/products/St-Louis-Cardinals-logo.jpg" alt="Cardinals" style="width:500px;height:400px;">
+    <img src="https://images4.alphacoders.com/569/569556.jpg" alt="Blues" style="width:500px;height:400px;">
   </head>
 </html>
 
