@@ -1,10 +1,7 @@
 # Midterm Project
 ### About Me by Grant Spinks
 Links to WebPages: 
-[ReadMe WebPage Link](README.md) 
- [Soccer WebPage Link](Soccer.md)
- [Golf WebPage Link](Golf.md)
- [Videogames WebPage Link](Videogames.md)
+[ReadMe WebPage Link](README.md)  [Soccer WebPage Link](Soccer.md)  [Golf WebPage Link](Golf.md)  [Videogames WebPage Link](Videogames.md)
 
 My name is Grant Spinks. I am from St.Louis Missouri. I am 18 years old. I have a dog named Lulu. Some things I like to do for fun include:
 
