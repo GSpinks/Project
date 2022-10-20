@@ -1,5 +1,6 @@
 # Midterm Project
 ### About Me by Grant Spinks
+Links to WebPages: 
 [ReadMe WebPage Link](README.md) 
 
 [Soccer WebPage Link](Soccer.md)
