@@ -8,3 +8,5 @@ My name is Grant Spinks. I am from St.Louis Missouri. I am 18 years old. I have 
 
 - Playing videogames
 
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+
